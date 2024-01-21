@@ -14,9 +14,9 @@ timezone: Asia/Seoul
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: j2won's blog             #Chirpy # the main title
+title: j2won             #Chirpy # the main title
 
-tagline: A text-focused Jekyll theme # it will display as the sub-title
+tagline: 성장하는 프리랜서 개발자     #A text-focused Jekyll theme # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
   A minimal, responsive and feature-rich Jekyll theme for technical writing.
@@ -28,8 +28,8 @@ url: "https://j2wonkim.github.io"
 github:
   username: j2wonkim                #github_username            # change to your github username
 
-twitter:
-  username: twitter_username # change to your twitter username
+#twitter:
+#  username: twitter_username # change to your twitter username
 
 social:
   # Change to your full name.
@@ -63,7 +63,7 @@ google_analytics:
 #     light  - Use the light color scheme
 #     dark   - Use the dark color scheme
 #
-theme_mode:  [light|dark]
+theme_mode: light    # [light|dark]
 
 # The CDN endpoint for images.
 # Notice that once it is assigned, the CDN url
