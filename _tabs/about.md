@@ -28,7 +28,7 @@ order: 4
 ##### [2018.06 ~ 2023.06]    
 **SKT MVNO 자동납부 운영**    
 - 개발환경 : Redhat Linux 6.5, MiPlatform, Java, Oracle, Jeus 6.0, Nexcore,    
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Git, Bitbucket, Jira, Sourcetree    
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Git, Bitbucket, Jira, Sourcetree    
 - 멤버수 : 2명    
 - 담당업무 : 자동납부 인출 반영 배치 작업 수행, 자동납부 신청, 인출 모듈 개선(UI 및 배치 개발)    
 &nbsp;
@@ -43,7 +43,7 @@ order: 4
 ##### [2017.05 ~ 2017.12]    
 **통일부 대북지원정보시스템 구축**    
 - 개발환경 : Redhat Linux 6.7, Java, 전자정부프레임워크 3.5.1, Javascript, jQuery,    
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Maria DB(MySQL), JBoss 6.4.8, IB Sheet, IB Chart, rMate MapChart, Crownix Report 6.0    
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Maria DB(MySQL), JBoss 6.4.8, IB Sheet, IB Chart, rMate MapChart, Crownix Report 6.0    
 - 멤버수 : 4명    
 - 담당업무 : 대북지원정보 내부시스템 개발    
 &nbsp;
